@@ -50,7 +50,7 @@
 
 		},
 		{
-			"id": "4",
+			"id": "",
 			"type": "c",
 			"card_content": "This is a sample Chance Card 1",
 		  	"option_no": "",
@@ -67,7 +67,7 @@
 
 		},
 		{
-			"id": "5",
+			"id": "4",
 			"type": "s",
 		    "card_content": "You have a role in your team that is related to customer service which no one wants to do as its monotonous and has high stakes involved due to penalties attached if a customer escalates the situation due to dissatisfaction. You do not have the budget to recruit a new person for this role, hence need to assign it to some existing team member. Which of the team members would you assign the role to?",
 		  	"option_no": "A",
@@ -84,7 +84,7 @@
 
 		},
 		{
-			"id": "6",
+			"id": "5",
 			"type": "s",
 			"card_content": "You have a high-pressure job with a very ambitious sales target set for your team.. Your team has been consistently performing well and meeting the. targets in the last two quarter. It has however, come to your notice that dueto the pressure your team members have been overpromisingto customers or sometimes mis-selling. What will you do?",
 			"option_no": "A",
@@ -101,7 +101,7 @@
 
 		},
 		{
-			"id": "7",
+			"id": "6",
 			"type": "s",
 			"card_content": "The promotion cycle is around the corner & as per the HR guidelines only one of your team member can get promoted. However, there are two team members, who are eligible to get evaluated for the promotion. Both the team members are equally talented & are extremely critical to the team. It is mandatory for you to promote one from the team & there is no scope for an exception in the HR policy, What will you do?",
 			"option_no": "A",
@@ -118,7 +118,7 @@
 
 		},
 		{
-			"id": "8",
+			"id": "",
 			"type": "c",
 			"card_content": "This is a sample Chance Card 2",
 			"option_no": "",
@@ -134,7 +134,7 @@
 			"long_term_feedback": ""
 		},
 		{
-			"id": "9",
+			"id": "7",
 			"type": "s",
 			"card_content": "It has been announced that your department will be merged with another department. This announcement, creates a lot of unrest within the team. Though you are a team manager, however, you still do not have enough information, to handle the queries of the team members, since there is a lot of ambiguity around. This news is creating alot of chaos in the team as there are many speculations about the job loss, 'change in role & structure, management change etc. Some ot the information may not be even true. However, it is stillsreating a panic within the team. What would you do to handle this situation to manage the panic?",
 			"option_no": "A",
@@ -151,7 +151,7 @@
 
 		},
 		{
-			"id": "10",
+			"id": "8",
 			"type": "s",
 			"card_content": "One of your team member is extreme& talented and is very good performer. However, he is little reserved. He has been assigned a stakeholder who is very difficult to handle„escalate issues for no reasons and at times is unrealistic. Though this stakeholder is very difficult to manage, however, he is also an extremely important stakeholder and can 't be made unhappy. While the team member puts in a lot of effort to ma8ethe project successful, but he/she is not getting any±uccess. This is -leading to demotivation & frustration. As a team manager, what would you do to handle this situation considering Oat, only he can be aligned to him basis the technical expertise the team member brings.",
 			"option_no": "A",
@@ -167,7 +167,7 @@
 			"long_term_feedback": ""
 		},
 		{
-			"id": "11",
+			"id": "",
 			"type": "c",
 			"card_content": "This is a sample Chance Card 3",
 			"option_no": "",
@@ -184,7 +184,7 @@
 
 		},
 		{
-			"id": "12",
+			"id": "9",
 			"type": "s",
 			"card_content": "Your manager is an extremely busy man ånd located in a different office. He is a good human being, but likes to keep all authority with him. You realize that most of your time goes in chasing him for his approvalF and guidanee. He has just given you a feedback, that you do not communicate with him enough and are not showing desired results.",
 			"option_no": "A",
@@ -200,7 +200,7 @@
 			"long_term_feedback": ""
 		},
 		{
-			"id": "13",
+			"id": "10",
 			"type": "s",
 			"card_content": "Suresh is one of the best technical resource you have in your team. He is an experienced resource who is extremely proficient in his craft. You have a team of 4 people including Suresh. An extremely prestigious assignment has been given to your team which needs high levels of collaboration and delivery on slim timelines. The rest of the team has refused to work with Suresh, due to his poor interpersonal skills. What will you do?",
 			"option_no": "A",
@@ -217,7 +217,7 @@
 
 		},
 		{
-			"id": "14",
+			"id": "",
 			"type": "c",
 			"card_content": "This is a sample Chance Card 4",
 			"option_no": "A",
@@ -234,7 +234,7 @@
 
 		},
 		{
-			"id": "15",
+			"id": "11",
 			"type": "s",
 			"card_content": "You have a woman employee in the team, who is pregnant. Despite being on the family way, her performance-is outstanding & she never says no to the extra responsibilities handed over to her. However, post returning from the maternity leave, she is not able to put in the same amount of effort as earlier as she is juggling between work Cbeing a new mother. She is determined to continue to work and feels it is just a matter time. However, you as a team manager are in a fix as your performance is dependent on the performance of your teåm & if any single person is not contributing, it impacg your deliverables. What will you do?",
 			"option_no": "A",
@@ -251,7 +251,7 @@
 
 		},
 		{
-			"id": "16",
+			"id": "",
 			"type": "c",
 			"card_content": "This is a sample Chance Card 5",
 			"option_no": "A",
@@ -267,7 +267,7 @@
 			"long_term_feedback": ""
 		},
 		{
-			"id": "17",
+			"id": "12",
 			"type": "s",
 			"card_content": "You are a team manager and have a team ynember, who has an extremely good rapport with your manager (means you skip manager). You have observed his work and feels that his performance is not up to the mark & he needs improvement. You want to put him in the Performance Improvement Plan. However, there is a resistance-from your manager. Despite furnishing enough data points, he tells you to give him more time. However, you have already given him enough time, feedback & support. And it has started effecting the team deliverables. What would you dot",
 			"option_no": "A",
